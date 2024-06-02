@@ -1,3 +1,3 @@
 # cryptoCamp
-blockChain dapp讀書會
-[Watch the video](https://github.com/Itzel71/cryptoCamp/assets/bmi.mp4)
+#demo video
+bmi-calculator :https://drive.google.com/file/d/1aasJP-ItQcaCTJ7P0gqfwevywU_Jj8gN/view?usp=drive_link
